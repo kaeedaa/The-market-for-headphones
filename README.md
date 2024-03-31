@@ -1,8 +1,5 @@
 # The-market-for-headphones
 
-
-Sure, here's an example README file for the SQL project based on headphones:
-
 Headphones SQL Project
 This SQL project focuses on managing inventory, analyzing sales data, and tracking customer interactions related to headphones. It includes a database schema, sample queries, and scenarios covering various aspects of the headphone business.
 
